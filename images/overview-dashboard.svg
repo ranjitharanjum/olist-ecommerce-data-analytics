@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#f5f7fb"/>
+  <text x="70" y="80" font-size="34" font-family="Arial, Helvetica, sans-serif" fill="#1f2937" font-weight="700">Olist Revenue Dashboard</text>
+  <rect x="70" y="120" width="240" height="120" rx="14" fill="#ffffff" stroke="#dbe3f0"/>
+  <text x="98" y="165" font-size="18" font-family="Arial, Helvetica, sans-serif" fill="#6b7280">Total Revenue</text>
+  <text x="98" y="210" font-size="36" font-family="Arial, Helvetica, sans-serif" fill="#0f172a" font-weight="700">R$ 14.27M</text>
+
+  <rect x="340" y="120" width="240" height="120" rx="14" fill="#ffffff" stroke="#dbe3f0"/>
+  <text x="368" y="165" font-size="18" font-family="Arial, Helvetica, sans-serif" fill="#6b7280">Average Order Value</text>
+  <text x="368" y="210" font-size="36" font-family="Arial, Helvetica, sans-serif" fill="#0f172a" font-weight="700">R$ 144.67</text>
+
+  <rect x="610" y="120" width="240" height="120" rx="14" fill="#ffffff" stroke="#dbe3f0"/>
+  <text x="638" y="165" font-size="18" font-family="Arial, Helvetica, sans-serif" fill="#6b7280">Orders</text>
+  <text x="638" y="210" font-size="36" font-family="Arial, Helvetica, sans-serif" fill="#0f172a" font-weight="700">98,666</text>
+
+  <rect x="880" y="120" width="240" height="120" rx="14" fill="#ffffff" stroke="#dbe3f0"/>
+  <text x="908" y="165" font-size="18" font-family="Arial, Helvetica, sans-serif" fill="#6b7280">Top State</text>
+  <text x="908" y="210" font-size="36" font-family="Arial, Helvetica, sans-serif" fill="#0f172a" font-weight="700">SP</text>
+
+  <rect x="70" y="290" width="520" height="300" rx="18" fill="#ffffff" stroke="#dbe3f0"/>
+  <text x="95" y="325" font-size="22" font-family="Arial, Helvetica, sans-serif" fill="#1f2937" font-weight="700">Revenue by State</text>
+  <rect x="110" y="420" width="50" height="120" fill="#3b82f6"/>
+  <rect x="185" y="470" width="50" height="70" fill="#60a5fa"/>
+  <rect x="260" y="490" width="50" height="50" fill="#93c5fd"/>
+  <rect x="335" y="500" width="50" height="40" fill="#bfdbfe"/>
+  <rect x="410" y="515" width="50" height="25" fill="#dbeafe"/>
+  <text x="120" y="560" font-size="14" font-family="Arial, Helvetica, sans-serif" fill="#334155">SP</text>
+  <text x="195" y="560" font-size="14" font-family="Arial, Helvetica, sans-serif" fill="#334155">RJ</text>
+  <text x="270" y="560" font-size="14" font-family="Arial, Helvetica, sans-serif" fill="#334155">MG</text>
+  <text x="345" y="560" font-size="14" font-family="Arial, Helvetica, sans-serif" fill="#334155">RS</text>
+  <text x="420" y="560" font-size="14" font-family="Arial, Helvetica, sans-serif" fill="#334155">PR</text>
+
+  <rect x="640" y="290" width="490" height="300" rx="18" fill="#ffffff" stroke="#dbe3f0"/>
+  <text x="665" y="325" font-size="22" font-family="Arial, Helvetica, sans-serif" fill="#1f2937" font-weight="700">Key Highlights</text>
+  <circle cx="700" cy="390" r="8" fill="#22c55e"/>
+  <text x="720" y="395" font-size="18" font-family="Arial, Helvetica, sans-serif" fill="#334155">Strong concentration in São Paulo</text>
+  <circle cx="700" cy="440" r="8" fill="#f59e0b"/>
+  <text x="720" y="445" font-size="18" font-family="Arial, Helvetica, sans-serif" fill="#334155">Home and wellness categories lead sales</text>
+  <circle cx="700" cy="490" r="8" fill="#3b82f6"/>
+  <text x="720" y="495" font-size="18" font-family="Arial, Helvetica, sans-serif" fill="#334155">Validated order-based revenue metric</text>
+  <circle cx="700" cy="540" r="8" fill="#8b5cf6"/>
+  <text x="720" y="545" font-size="18" font-family="Arial, Helvetica, sans-serif" fill="#334155">AOV remains stable at R$144.67</text>
+</svg>
